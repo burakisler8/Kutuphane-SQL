@@ -1,0 +1,10 @@
+insert into Kategoriler(kategori_adi) values('Bilgisayar');
+insert into Kategoriler(kategori_adi) values('Klasik');
+insert into Kategoriler(kategori_adi) values('Fantastik');
+insert into Kategoriler(kategori_adi) values('Edebiyat');
+insert into Kategoriler(kategori_adi) values('Matematik');
+insert into Kategoriler(kategori_adi) values('Psikoloji');
+insert into Kategoriler(kategori_adi) values('Tarih');
+insert into Kategoriler(kategori_adi) values('Türk Roman');
+insert into Kategoriler(kategori_adi) values('Bilim');
+insert into Kategoriler(kategori_adi) values('Diðer');
